@@ -85,6 +85,7 @@ MysteryPuzzleWorld/
 ├── results.csv
 └── README.md
 
+---
 
 ## Future Enhancements
 - Add new puzzle categories (riddles, images, movies)  

@@ -69,7 +69,7 @@ The system uses core data structures like **Queue**, **Stack**, **HashMap**, and
 4. Enter your name and start playing!  
 
 ---
-
+## Folder Structure
 MysteryPuzzleWorld/
 ├── DSA project 4/
 │ └── DSA project 2/
